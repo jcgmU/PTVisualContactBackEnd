@@ -1,0 +1,8 @@
+{
+   "ignore": [
+     "src/routes.js"
+   ],
+   "ext": "js",
+   "exec": "node index.js"
+ }
+ 
