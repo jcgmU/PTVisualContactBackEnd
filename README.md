@@ -187,3 +187,6 @@ socket.on('agentUpdated', (data) => {
 📧 jcgm1047@gmail.com
 
 👨🏻‍💻Juan Camilo Garcia Martin
+
+ 🚀 Desarrollado con ❤️ usando Node.js y WebSocket
+
